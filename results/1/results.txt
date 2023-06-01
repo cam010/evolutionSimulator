@@ -1,0 +1,83 @@
+Generation 1 complete
+Starting Prey in this generation: 100
+Starting Predators in this generation: 100
+New prey produced this generation: 154
+New predators produced this generation: 111
+Total prey killed this generation: 144
+Total predators killed this generation: 118
+New Prey count: 61
+New Predator count: 93
+###################################
+Generation 2 complete
+Starting Prey in this generation: 61
+Starting Predators in this generation: 93
+New prey produced this generation: 122
+New predators produced this generation: 188
+Total prey killed this generation: 126
+Total predators killed this generation: 97
+New Prey count: 57
+New Predator count: 184
+###################################
+Generation 3 complete
+Starting Prey in this generation: 57
+Starting Predators in this generation: 184
+New prey produced this generation: 122
+New predators produced this generation: 416
+Total prey killed this generation: 121
+Total predators killed this generation: 166
+New Prey count: 58
+New Predator count: 434
+###################################
+Generation 4 complete
+Starting Prey in this generation: 58
+Starting Predators in this generation: 434
+New prey produced this generation: 155
+New predators produced this generation: 1141
+Total prey killed this generation: 116
+Total predators killed this generation: 356
+New Prey count: 97
+New Predator count: 1219
+###################################
+Generation 5 complete
+Starting Prey in this generation: 97
+Starting Predators in this generation: 1219
+New prey produced this generation: 251
+New predators produced this generation: 3458
+Total prey killed this generation: 198
+Total predators killed this generation: 924
+New Prey count: 150
+New Predator count: 3753
+###################################
+
+Simulation Over, reached generation max
+Combat levels, generation by generation:
+{'predator, 1': 51.34,
+ 'predator, 2': 53.21621621621622,
+ 'predator, 3': 54.861702127659576,
+ 'predator, 4': 52.32932692307692,
+ 'predator, 5': 52.08150744960561,
+ 'predator, 6': 52.876807403123195,
+ 'prey, 1': 51.74,
+ 'prey, 2': 47.4025974025974,
+ 'prey, 3': 63.27049180327869,
+ 'prey, 4': 72.44262295081967,
+ 'prey, 5': 87.3225806451613,
+ 'prey, 6': 91.23107569721115}
+
+
+Combat levels remaining after this generation
+Prey: 92.76
+Predators: 53.449773514521716
+
+
+Remaining count from each generation:
+{'Predators, 1': 16,
+ 'Predators, 2': 101,
+ 'Predators, 3': 465,
+ 'Predators, 4': 1109,
+ 'Predators, 5': 1431,
+ 'Prey, 1': 3,
+ 'Prey, 2': 8,
+ 'Prey, 3': 15,
+ 'Prey, 4': 28,
+ 'Prey, 5': 50}

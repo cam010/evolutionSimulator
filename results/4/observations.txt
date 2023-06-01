@@ -1,0 +1,8 @@
+The number of prey and predators increases significantly and rapidly, with a much greater increase compared to the last investigation's 10th generation
+The number of prey initially decreases, then increases incredibly rapidly
+The combat level of the predators nearly halves overall, this could be because rapidly breeding, low combat level organisms were dominating the population with no predator of their own
+
+
+Alterations
+Reduce the maximum offspring amount for both predator and prey to 3
+If a predator does not kill its prey, then the predator has a 50% chance of dying itself

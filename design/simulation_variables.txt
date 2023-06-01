@@ -1,0 +1,32 @@
+These are to be set by the user before the simulation runs, with some default values given,
+Values marked with "#" are the absolute minimum and maximum, ie the user cannot go beyond them.
+Note this file is not where they are set/read from, this is just a representation
+
+Prey minimum reproduction chance: 1 #
+Prey maximum reproduction chance: 100 #
+Prey minimum offspring amount: 1 #
+Prey maximum offspring amount: 5
+Prey minimum chance of spontaneous death: 1 #
+Prey maximum chance of spontaneous death: 100 #
+Prey minimum defence level: 0 #
+Prey maximum defence level: 100 #
+Prey minimum starting energy level: 1 #
+Prey maximum starting energy level: 20
+Prey minimum, minimum energy level to survive: 1 #
+Prey maximum, minimum energy level to survive: 5 
+
+Predator minimum reproduction chance: 1 #
+Predator maximum reproduction chance: 100 #
+Predator minimum offspring amount: 1 #
+Predator maximum offspring amount: 5
+Predator minimum chance of spontaneous death: 1 #
+Predator maximum chance of spontaneous death: 100 #
+Predator minimum starting energy level: 2 #
+Predator maximum starting energy level: 20
+Predator minimum, minimum energy level to survive: 1 #
+Predator maximum, minimum energy level to survive: 5 
+Predator minimum attack level: 1 #
+Predator maximum attack level: 100 #
+
+Minimum percetage amount of energy shared between prey each turn (percentage meaning x/preycount): 0% # 
+Maximum percentage amount of energy shared between prey each turn (percentage meaning x/preycount): 200% 

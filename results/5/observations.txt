@@ -1,0 +1,6 @@
+The number of predator and prey fell drastically compared to the last experiment
+The combat level of predators and prey both increased, with prey more than predators
+The numbers of both predator and prey were less than the starting amount
+
+Alterations
+Increase the number of generations to 30, to see if any patterns emerge

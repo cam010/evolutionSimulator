@@ -1,0 +1,16 @@
+Observations
+Prey numbers overall increase, however initially drop significantly
+Predator numbers overall increase much more than prey, however initially drop slightly
+Predator numbers do not reach the same levels as in the previous Simulation
+
+Predators' combat level increases overall, more than in the last experiment. However, it initially drop slightly
+Prey's combat level increases significantly overall
+Predator combat levels increase less than prey's
+
+
+Alterations
+Increase the number of generations to 30, to see if any patterns emerge
+Increase the minimum minimum energy level needed to survive for the predators to 5
+Increase the maximum minimum energy level needed to survive for the predators to 10
+Increase minimum energy starting level of a predator to 5
+Decrease maximum energy starting level of a predator to 15

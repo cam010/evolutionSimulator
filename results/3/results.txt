@@ -1,0 +1,142 @@
+Generation 1 complete
+Starting Prey in this generation: 100
+Starting Predators in this generation: 100
+New prey produced this generation: 132
+New predators produced this generation: 140
+Total prey killed this generation: 176
+Total predators killed this generation: 163
+New Prey count: 33
+New Predator count: 77
+###################################
+Generation 2 complete
+Starting Prey in this generation: 33
+Starting Predators in this generation: 77
+New prey produced this generation: 63
+New predators produced this generation: 121
+Total prey killed this generation: 50
+Total predators killed this generation: 77
+New Prey count: 46
+New Predator count: 121
+###################################
+Generation 3 complete
+Starting Prey in this generation: 46
+Starting Predators in this generation: 121
+New prey produced this generation: 148
+New predators produced this generation: 206
+Total prey killed this generation: 73
+Total predators killed this generation: 93
+New Prey count: 121
+New Predator count: 234
+###################################
+Generation 4 complete
+Starting Prey in this generation: 121
+Starting Predators in this generation: 234
+New prey produced this generation: 525
+New predators produced this generation: 458
+Total prey killed this generation: 199
+Total predators killed this generation: 183
+New Prey count: 447
+New Predator count: 509
+###################################
+Generation 5 complete
+Starting Prey in this generation: 447
+Starting Predators in this generation: 509
+New prey produced this generation: 1995
+New predators produced this generation: 1065
+Total prey killed this generation: 485
+Total predators killed this generation: 405
+New Prey count: 1083
+New Predator count: 1169
+###################################
+Generation 6 complete
+Starting Prey in this generation: 1083
+Starting Predators in this generation: 1169
+New prey produced this generation: 5001
+New predators produced this generation: 2674
+Total prey killed this generation: 1096
+Total predators killed this generation: 967
+New Prey count: 2730
+New Predator count: 2876
+###################################
+Generation 7 complete
+Starting Prey in this generation: 2730
+Starting Predators in this generation: 2876
+New prey produced this generation: 12759
+New predators produced this generation: 6930
+Total prey killed this generation: 2906
+Total predators killed this generation: 2336
+New Prey count: 6899
+New Predator count: 7470
+###################################
+Generation 8 complete
+Starting Prey in this generation: 6899
+Starting Predators in this generation: 7470
+New prey produced this generation: 32390
+New predators produced this generation: 18295
+Total prey killed this generation: 7546
+Total predators killed this generation: 6165
+New Prey count: 18191
+New Predator count: 19600
+###################################
+Generation 9 complete
+Starting Prey in this generation: 18191
+Starting Predators in this generation: 19600
+New prey produced this generation: 85781
+New predators produced this generation: 48734
+Total prey killed this generation: 19767
+Total predators killed this generation: 16374
+New Prey count: 48389
+New Predator count: 51960
+###################################
+Generation 10 complete
+Starting Prey in this generation: 48389
+Starting Predators in this generation: 51960
+New prey produced this generation: 229253
+New predators produced this generation: 131915
+Total prey killed this generation: 53211
+Total predators killed this generation: 44659
+New Prey count: 130322
+New Predator count: 139216
+###################################
+Generation 11 complete
+Starting Prey in this generation: 130322
+Starting Predators in this generation: 139216
+New prey produced this generation: 619236
+New predators produced this generation: 361888
+Total prey killed this generation: 144857
+Total predators killed this generation: 121514
+New Prey count: 355261
+New Predator count: 379590
+###################################
+Generation 12 complete
+Starting Prey in this generation: 355261
+Starting Predators in this generation: 379590
+New prey produced this generation: 1690048
+New predators produced this generation: 1001019
+Total prey killed this generation: 399522
+Total predators killed this generation: 335870
+New Prey count: 977979
+New Predator count: 1044739
+###################################
+Generation 13 complete
+Starting Prey in this generation: 977979
+Starting Predators in this generation: 1044739
+New prey produced this generation: 4655687
+New predators produced this generation: 2805333
+Total prey killed this generation: 1114787
+Total predators killed this generation: 936608
+New Prey count: 2726535
+New Predator count: 2913464
+###################################
+Generation 14 complete
+Starting Prey in this generation: 2726535
+Starting Predators in this generation: 2913464
+New prey produced this generation: 12987549
+New predators produced this generation: 7949897
+Total prey killed this generation: 3144377
+Total predators killed this generation: 2642770
+New Prey count: 7693442
+New Predator count: 8220591
+###################################
+
+INCOMPLETE AFTER ABT 30 MINS

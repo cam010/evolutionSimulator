@@ -1,0 +1,10 @@
+Observations
+This took far too long to complete, due to the large net growth of prey and predator counts
+The amount of prey and predators remained similar from generation 4+, before this there were almost double
+the amount of predators compared to prey
+The amount of predators and prey increased rapidly, seemingly unaffected by energy loss
+
+Alterations
+Reduce generations to 10
+Decrease the amount of energy absorbed from consumption of prey to 10%
+After the population reaches 100_000, decrease the amount of energy that a prey gets by half

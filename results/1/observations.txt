@@ -1,0 +1,10 @@
+Observations
+- Prey count dips significantly before increasing again
+- Predator count is seemingly unaffected by spontaneous death and death by lack of energy, as they outbreed it
+- Predators' combat level increases slightly overall, but varies between generations
+- Prey's combat level increases significantly overall, despite decreasing in the first generation
+
+Alterations
+- Use a larger minimum sporadic death chance for predators, use 10
+- Increase the amount of energy taken from predators per turn to 4
+- Increase the amount of energy given to prey per turn to 4

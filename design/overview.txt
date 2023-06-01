@@ -1,0 +1,51 @@
+There are 2 sets of organisms, predators and prey
+Each organism consists of a genome which dictates their characteristics
+The characteristics of the prey are:
+    - Reproduction chance
+    - Offspring amount
+    - Chance of spontaneous death
+    - Defence level
+    - Starting energy level
+    - Minimum energy level to survive
+
+The characteristics of the predators are:
+    - Attack level
+    - Minimum energy level to survive
+    - Reproduction chance
+    - Offspring amount
+    - Chance of spontaneous death
+    - Starting energy level
+
+Each round, or tick, each "chance" in the characteristics is simulated in this order:
+    - Each predator has 1 energy removed
+    - An amount of energy is given to each prey
+    - Each prey and predator has a chance to reproduce
+    - Each predator attempts to "kill" a prey
+    - Each organism has a chance of a spontaneous death
+
+ENERGY LEVEL
+    Each predator requires a minimum energy level to survive, this is to simulate starvation and death if the 
+    predator's genome dictates that it is not very good at killing prey
+    Each prey requires a minimum energy level to survive, this is to stop over-reproduction
+    Each prey is created with a starting energy level. A proportion of this is absorbed by the predator when it
+    eats the prey. This is to simulate a predator adapting to eat a certain type of food
+    Every tick, there is an amount of energy given to each prey. This is to simulate the photosynthesis/sunlight
+    energy absorbed
+
+REPRODUCTION
+    Each predator and prey reproduces asexually, and the chance is determined by its genome dictating the 
+    reproduction chance. It takes 1 energy from a predator and prey to reproduce. This is to see if any of the 
+    predators evolve to reproduce at an optimal level to not use all their energy whilst maintaining the 
+    population.
+    Each reproduction has a chance to produce 1-5 offspring, this is determined by the genome
+    Each reproduction has a chance of mutation
+
+HUNTING
+    Each tick, each predator has a chance to kill 1 prey, which has the chance to defend it. If the prey defends it,
+    the predator does not die, but does not get any more energy that round. If there are more predators than prey,
+    then surplus predators will have a chance to attack other prey, and a chance to not attack anything. This is to 
+    hopefully simulate the rise and fall of populations of predator and prey
+
+SPONTANEOUS DEATH
+    Each tick, each predator and prey has a chance of spontaneous death, this is to simulate deaths unrelated to a 
+    predator/prey relationship such as a forest fire, or the more trivial falling off a cliff

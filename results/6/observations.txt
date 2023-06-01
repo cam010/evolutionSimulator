@@ -1,0 +1,5 @@
+Using the graph, it shows that the predator-prey relationship demonstrated in real life is mimiced for a section, however the prey seems to recover from the increase in predators and increase rapidly towards the last few generations.
+
+Alterations
+Set the minimum chance for spontaneous death of both to 5
+Increase the generations to 45
