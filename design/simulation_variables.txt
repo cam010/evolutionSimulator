@@ -1,3 +1,5 @@
+NOTE - THIS IS NOW OUTDATED
+
 These are to be set by the user before the simulation runs, with some default values given,
 Values marked with "#" are the absolute minimum and maximum, ie the user cannot go beyond them.
 Note this file is not where they are set/read from, this is just a representation

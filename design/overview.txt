@@ -1,3 +1,5 @@
+NOTE - THIS IS NOW OUTDATED
+
 There are 2 sets of organisms, predators and prey
 Each organism consists of a genome which dictates their characteristics
 The characteristics of the prey are:
